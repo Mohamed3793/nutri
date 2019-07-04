@@ -1,0 +1,32 @@
+<svg class="m-item-summary__graph-5" width="237px" height="242px" viewBox="0 0 237 242" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<linearGradient x1="100%" y1="1603.90625%" x2="0%" y2="1603.90625%" id="linearGradient-1">
+			<stop stop-color="#91EF31" offset="0%"></stop>
+			<stop stop-color="#CEEF31" offset="100%"></stop>
+		</linearGradient>
+	</defs>
+	<g id="Results-★" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="Results-Woman-DFHD" transform="translate(-527.000000, -3306.000000)">
+			<g id="Boxes" transform="translate(212.000000, 1646.000000)">
+				<g id="5" transform="translate(153.000000, 1502.000000)">
+					<g id="weight" transform="translate(163.000000, 159.000000)">
+						<path d="M194.498817,31 L214.90552,31 C220.506591,31 225.902029,33.3885714 229.701358,37.558619 C233.461518,41.6988095 235.370974,47.2721429 234.940123,52.8753333 L222.102701,221.259667 C221.309542,231.769381 212.506459,240 202.07789,240 L32.9294386,240 C22.5008696,240 13.6977865,231.759429 12.8948356,221.239762 L0.0574140886,52.865381 C-0.363645505,47.2721429 1.54581079,41.6888571 5.30597088,37.5486667 C9.1052993,33.3885714 14.4909453,31 20.0920171,31 L40.8428596,31" id="Stroke-3" stroke="#3E3A54" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+						<path d="M50,68 C50,30.498 80.498,0 118,0 C155.502,0 186,30.498 186,68 L50,68 Z" id="Stroke-1" stroke="#3E3A54" stroke-width="2" fill="#1F1D2F" stroke-linecap="round" stroke-linejoin="round"></path>
+						<path d="M114.149457,69.4725882 L114.077467,69.5061575 L101.114749,28.2947591 L123.591773,63.5230751 C124.512023,64.5308411 125.073301,65.8720074 125.073301,67.3442672 C125.073301,70.4748806 122.535438,73.0127442 119.404824,73.0127442 C117.026931,73.0127442 114.991015,71.5485651 114.149457,69.4725882 Z" id="Combined-Shape" stroke="url(#linearGradient-1)" stroke-width="2" fill="#1F1D2F" stroke-linecap="round" stroke-linejoin="round" transform="translate(113.094025, 50.653752) rotate(-6.911288) translate(-113.094025, -50.653752) "></path>
+						<path d="M73.0568558,17.095981 C80.9767697,10.1402657 90.5070776,5.00425431 101.001649,2.3396583" id="Stroke-1-Copy" stroke="url(#linearGradient-1)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"></path>
+						<text id="Weight-range" opacity="0.5" font-family="Roboto-Light, Roboto" font-size="18" font-weight="300" fill="#FFFFFF">
+							<tspan x="64.6347656" y="184">Weight Range</tspan>
+						</text>
+						<text id="112---125" font-family="Roboto-Light, Roboto" font-size="40" font-weight="300" fill="#CEEF31">
+							<tspan x="35.046875" y="154">
+								<script>document.write(getAnswersData('ideal_weight_from'));</script>
+								-
+								<script>document.write(getAnswersData('ideal_weight_to'));</script>
+							</tspan>
+						</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

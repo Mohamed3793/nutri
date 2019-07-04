@@ -1,0 +1,45 @@
+<svg class="m-item-summary__graph-3" width="288px" height="162px" viewBox="0 0 288 162" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<radialGradient cx="50%" cy="88.1608583%" fx="50%" fy="88.1608583%" r="95.4496814%" gradientTransform="translate(0.500000,0.881609),scale(0.662222,1.000000),rotate(-93.186016),translate(-0.500000,-0.881609)" id="radialGradient-1">
+			<stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+			<stop stop-color="#FFFFFF" stop-opacity="0" offset="76.1896091%"></stop>
+			<stop stop-color="#FFFFFF" stop-opacity="0.112375453" offset="100%"></stop>
+		</radialGradient>
+		<linearGradient x1="-2.06612668%" y1="98.8081952%" x2="97.2721884%" y2="2.64074039%" id="linearGradient-2">
+			<stop stop-color="#FFCA3E" offset="0%"></stop>
+			<stop stop-color="#FF7E22" offset="100%"></stop>
+		</linearGradient>
+	</defs>
+	<g id="Results-★" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="Mealplan-Woman-MOBILE" transform="translate(-72.000000, -2440.000000)">
+			<g id="Boxes" transform="translate(20.000000, 1452.000000)">
+				<g id="3" transform="translate(0.000000, 886.000000)">
+					<g id="Group-4" transform="translate(44.000000, 106.000000)">
+						<g id="Group-3" transform="translate(33.000000, 0.000000)">
+							<path d="M218.866335,149 C222.841269,137.506072 225,125.166742 225,112.324001 C225,50.2891681 174.632034,0 112.5,0 C50.3679656,0 0,50.2891681 0,112.324001 C0,125.010422 2.1065,137.205614 5.98932687,148.57992" id="Oval-3" fill="url(#radialGradient-1)"></path>
+							<path d="M223.294558,132 C224.41543,125.633705 225,119.082781 225,112.395451 C225,50.3211573 174.632034,0 112.5,0 C50.3679656,0 0,50.3211573 0,112.395451 C0,118.806699 0.537299006,125.092571 1.56936426,131.210573" id="Oval-3-Copy-2" stroke="#3E3A54" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+							<path d="M131,1.46295178 C125.032538,0.500446662 118.90792,0 112.665,0 C84.5182985,0 58.7763611,10.1727238 39,27" id="Oval-3-Copy-3" stroke="url(#linearGradient-2)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"></path>
+						</g>
+						<text id="2218---2314-kcal" font-size="30" font-weight="300">
+							<tspan x="67.9091797" y="96.4642857" fill="#FFC93E">
+								2080.875                                                        
+							</tspan>
+							<tspan x="224.09082" y="96.4642857" font-size="36" fill="#FF9B2B"></tspan>
+							<tspan x="124.830078" y="135.464286" font-size="24" fill="#FFA430">Calories</tspan>
+						</text>
+						<text id="0-kcal" opacity="0.5" font-size="18" font-weight="300" fill="#FFFFFF">
+							<tspan x="7.64013672" y="157">
+								0 Calories
+							</tspan>
+						</text>
+						<text id="5000-kcal" opacity="0.5" font-size="18" font-weight="300" fill="#FFFFFF">
+							<tspan x="219.705078" y="157">
+								5000 Calories
+							</tspan>
+						</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

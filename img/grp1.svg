@@ -1,0 +1,40 @@
+<svg id="graph-bmi" class="m-item-summary__graph-1" viewBox="0 0 560 302" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink.html">
+	<title>Group 3</title>
+	<desc>Created with Sketch.</desc>
+	<defs>
+		<rect id="path-1" x="0" y="0" width="560" height="560" rx="20"></rect>
+		<linearGradient x1="45.8601369%" y1="170.848376%" x2="44.6298024%" y2="16.9029444%" id="linearGradient-3">
+			<stop stop-color="#FFFFFF" stop-opacity="0.112375453" offset="13.8711735%"></stop>
+			<stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+		</linearGradient>
+		<linearGradient x1="50%" y1="26.9500636%" x2="50%" y2="70.342105%" id="linearGradient-4">
+			<stop stop-color="#00ADEE" offset="0%"></stop>
+			<stop stop-color="#00ADEE" offset="9.23947704%"></stop>
+			<stop stop-color="#05659E" offset="33.8129783%"></stop>
+			<stop stop-color="#3A9864" offset="44.4774394%"></stop>
+			<stop stop-color="#81C22F" offset="54.8011001%"></stop>
+			<stop stop-color="#F3AE04" offset="70.0613839%"></stop>
+			<stop stop-color="#C21300" offset="89.6982621%"></stop>
+			<stop stop-color="#C21300" offset="100%"></stop>
+		</linearGradient>
+	</defs>
+	<g id="Results-★" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="Results-Woman-DFHD" transform="translate(-365.000000, -2090.000000)">
+			<g id="Boxes" transform="translate(212.000000, 1646.000000)">
+				<g id="1" transform="translate(153.000000, 242.000000)">
+					<g id="Group-3">
+						<g id="Group-2">
+							<mask id="mask-2" fill="white">
+								<use xlink:href="#path-1"></use>
+							</mask>
+							<g id="Rectangle-9-Copy-2" opacity="0.900000036"></g>
+							<path d="M-4.10351562,562.949219 C29.7135119,488.957261 123.081007,440.465074 275.99897,417.472656 C428.916933,394.480239 525.411417,342.885187 565.482422,262.6875 L565.482422,194 L-4.10351562,194 L-4.10351562,562.949219 Z" id="Path-2-Copy" fill="url(#linearGradient-3)" transform="translate(280.689453, 378.474609) scale(-1, -1) translate(-280.689453, -378.474609) "></path>
+							<path d="M-4.10351562,494.261719 C29.7135119,420.269761 123.081007,371.777574 275.99897,348.785156 C428.916933,325.792739 525.411417,274.197687 565.482422,194" id="colored" stroke="url(#linearGradient-4)" stroke-width="2" transform="translate(280.689453, 344.130859) scale(-1, -1) translate(-280.689453, -344.130859) "></path>
+						</g>
+						<circle id="Oval-2" class="circle js-bmi-item-color" stroke="#151226" stroke-width="6" fill="#3BF0A8" cx="0" cy="0" r="13"></circle>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

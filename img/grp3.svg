@@ -1,0 +1,36 @@
+<svg class="m-item-summary__graph-4" width="189px" height="232px" viewBox="0 0 189 232" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+			<stop stop-color="#33F5E0" offset="0%"></stop>
+			<stop stop-color="#5172E8" offset="100%"></stop>
+		</linearGradient>
+		<path d="M143.66866,94.6634816 L134.711538,206.505495 L17.2884615,206.505495 L8.41874429,95.7548456 C24.2403287,84.8071136 37.4134443,84.7108118 47.9380912,95.4659402 C63.7250615,111.598633 89.7845836,79.5859375 104.738585,94.9851141 C114.707919,105.251232 127.684611,105.144021 143.66866,94.6634816 Z" id="path-2"></path>
+	</defs>
+	<g id="Results-★" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+		<g id="Results-Woman-DFHD" transform="translate(-1197.000000, -2687.000000)">
+			<g id="Boxes" transform="translate(212.000000, 1646.000000)">
+				<g id="4" transform="translate(783.000000, 872.000000)">
+					<g id="water" transform="translate(202.000000, 169.000000)">
+						<text id="5-L" opacity="0.5" font-size="18" font-weight="300" fill="#FFFFFF">
+							<tspan x="165.082031" y="38">5 L</tspan>
+						</text>
+						<text id="0-L" opacity="0.5" font-size="18" font-weight="300" fill="#FFFFFF">
+							<tspan x="165.082031" y="208">0 L</tspan>
+						</text>
+						<path d="M150.166711,1 L1.83328913,1 L18.2115761,205.505495 L133.788424,205.505495 L150.166711,1 Z" id="Rectangle-3" stroke="#3E3A54" stroke-width="2"></path>
+						<g id="Rectangle-3-Copy">
+							<use fill="#1F1D2F" fill-rule="evenodd" xlink:href="#path-2"></use>
+							<path stroke="url(#linearGradient-1)" stroke-width="2" d="M30,205 Z M30,205.505495 M9.46175511,96.2519154 Z M142.511495,96.5859226 C143.076498,96.2368514 143.645,95.8747901 144.216988,95.4997452 Z M142.511495,96.5859226 L133.788424,205.505495 L18.2115761,205.505495 L9.46175511,96.2519154 C24.6977781,85.8847895 37.1774972,85.8994802 47.2233676,96.1653473 C50.9764925,100.000663 55.4750146,101.490681 60.8754524,101.078895 C65.0016062,100.764274 68.9770061,99.5650228 75.8026717,96.9060414 C76.2154638,96.7452356 76.596213,96.5961754 77.2543905,96.3379829 C84.9546825,93.3172811 88.1688403,92.2615105 92.0015183,91.8124008 C96.9336894,91.2344535 100.808065,92.3730027 104.021185,95.6817752 C114.001907,105.95962 126.925515,106.215278 142.511495,96.5859226 Z"></path>
+						</g>
+						<text id="2.7L" font-size="50" font-weight="300" fill="#37B4FF">
+							<tspan x="37.4179688" y="176">
+								<script>document.write(toDecimal(getAnswersData('recommended_water')));</script>
+							</tspan>
+							<tspan x="65.776367" y="176" font-size="30">3 L</tspan>
+						</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
